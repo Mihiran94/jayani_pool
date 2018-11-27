@@ -167,14 +167,14 @@
 						<span class="sm">Works</span>
 						<h2><span class="thin">Our Done</span> <span class="thick">Projects</span></h2>
 						<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name</p>
-						<p><a href="project.html">View All Projects <i class="icon-arrow-right3"></i></a></p>
+						<p><a href="/project">View All Projects <i class="icon-arrow-right3"></i></a></p>
 					</div>
 					<div class="col-md-7 col-md-push-1">
 						<div class="row">
 							<div class="col-md-12 animate-box">
 								<div class="owl-carousel owl-carousel2 project-wrap">
 									<div class="item">
-										<a href="images/building-1.jpg" class="project image-popup-link" style="background-image: url(images/building-1.jpg);">
+										<a href="images/building-1.jpg" class="project image-popup-link" style="background-image: url(images/img4.jpg);">
 											<div class="desc-t">
 												<div class="desc-tc">
 													<div class="desc">
@@ -186,7 +186,7 @@
 										</a>
 									</div>
 									<div class="item">
-										<a href="images/building-2.jpg" class="project image-popup-link" style="background-image: url(images/building-2.jpg);">
+										<a href="images/building-2.jpg" class="project image-popup-link" style="background-image: url(images/img10.jpg);">
 											<div class="desc-t">
 												<div class="desc-tc">
 													<div class="desc">
@@ -198,7 +198,7 @@
 										</a>
 									</div>
 									<div class="item">
-										<a href="images/building-3.jpg" class="project image-popup-link" style="background-image: url(images/building-3.jpg);">
+										<a href="images/building-3.jpg" class="project image-popup-link" style="background-image: url(images/img13.jpg);">
 											<div class="desc-t">
 												<div class="desc-tc">
 													<div class="desc">
@@ -253,6 +253,7 @@
 						<span class="sm">What We Do?</span>
 						<h2><span class="thin">We Offer</span> <span class="thick">Services</span></h2>
 						<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name</p>
+						<p><a href="/services">Our Services <i class="icon-arrow-right3"></i></a></p>
 					</div>
 					<div class="col-md-8">
 						<div class="row">
@@ -337,30 +338,30 @@
 						<span class="sm">Recent Blog</span>
 						<h2><span class="thin">Read</span> <span class="thick">Our Blog</span></h2>
 						<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name</p>
-						<p><a href="blog.html">View All Blog Post <i class="icon-arrow-right3"></i></a></p>
+						<p><a href= "/blog">View All Blog Post <i class="icon-arrow-right3"></i></a></p>
 					</div>
 					<div class="col-md-8">
 						<div class="row">
 							<div class="wrap">
 								<div class="blog-entry animate-box">
-									<a href="blog.html" class="blog-img" style="background-image: url(images/blog-1.jpg);"></a>
+									<a href="blog.html" class="blog-img" style="background-image: url(images/img7.jpeg);"></a>
 									<div class="desc">
 										<span>&mdash; 20 Jan, 2017 </span>
-										<h2><a href="blog.html">Construction was awarded with “The Best Construction Company” prize</a></h2>
+										<h2><a href="/blog">Award winning swimming pool construction company in the Sri Lanka</a></h2>
 									</div>
 								</div>
 								<div class="blog-entry animate-box">
-									<a href="blog.html" class="blog-img" style="background-image: url(images/blog-2.jpg);"></a>
+									<a href="blog.html" class="blog-img" style="background-image: url(images/img9.jpeg);"></a>
 									<div class="desc">
 										<span>&mdash; 20 Jan, 2017 </span>
-										<h2><a href="blog.html">New Doublered Residence Facility Occupied and Second to Begin this Month</a></h2>
+										<h2><a href="/blog">Ten Mistakes People Make When Hiring a Contractor To Build a Swimming Pool</a></h2>
 									</div>
 								</div>
 								<div class="blog-entry animate-box">
-									<a href="blog.html" class="blog-img" style="background-image: url(images/blog-3.jpg);"></a>
+									<a href="blog.html" class="blog-img" style="background-image: url(images/img12.jpg);"></a>
 									<div class="desc">
 										<span>&mdash; 20 Jan, 2017 </span>
-										<h2><a href="blog.html">New Saint Michael’s College Residence Hall Buzzing with Student Activity</a></h2>
+										<h2><a href="/blog">A swimming pool is a water retaining structure used for purposes such as leisure and exercise.</a></h2>
 									</div>
 								</div>
 							</div>
@@ -369,105 +370,12 @@
 				</div>	
 			</div>
 		</div>
-		<div id="colorlib-about">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-4 col-md-push-8 animate-box colorlib-heading animate-box">
-						<span class="sm">Team</span>
-						<h2><span class="thin">Our</span> <span class="thick">Engineers</span></h2>
-						<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name</p>
-					</div>
-					<div class="col-md-8 col-md-pull-4">
-						<div class="row">
-							<div class="wrap-2">
-								<div class="col-md-6 text-center animate-box">
-									<div class="staff" class="staff-img" style="background-image: url(images/person1.jpg);">
-										<a href="#" class="desc">
-											<h3>John Miller</h3>
-											<span>Lead Engineer</span>
-											<div class="parag">
-												<p>Even the all-powerful Pointing has no control about the blind texts</p>
-											</div>
-										</a>
-									</div>
-								</div>
-								<div class="col-md-6 text-center animate-box">
-									<div class="staff" class="staff-img" style="background-image: url(images/person2.jpg);">
-										<a href="#" class="desc">
-											<h3>Brian Smith</h3>
-											<span>Architect</span>
-											<div class="parag">
-												<p>Even the all-powerful Pointing has no control about the blind texts</p>
-											</div>
-										</a>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div id="colorlib-testimony" class="colorlib-light-grey">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-4 animate-box colorlib-heading animate-box">
-						<span class="sm">Testimonial</span>
-						<h2><span class="thin">What Our</span> <span class="thick">Client Says</span></h2>
-					</div>
-					<div class="col-md-7 col-md-push-1">
-						<div class="row animate-box">
-							<span class="icon"><i class="icon-quotes-left"></i></span>
-							<div class="owl-carousel1">
-								<div class="item">
-									<div class="testimony-slide active">
-										<div class="testimony-wrap">
-											<figure>
-												<img src="images/person1.jpg" alt="user">
-											</figure>
-											<blockquote>
-												<span>Andrew Field</span>
-												<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-											</blockquote>
-										</div>
-									</div>
-								</div>
-								<div class="item">
-									<div class="testimony-slide active">
-										<div class="testimony-wrap">
-											<figure>
-												<img src="images/person2.jpg" alt="user">
-											</figure>
-											<blockquote>
-												<span>Mark Bubble</span>
-												<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-											</blockquote>
-										</div>
-									</div>
-								</div>
-								<div class="item">
-									<div class="testimony-slide active">
-										<div class="testimony-wrap">
-											<figure>
-												<img src="images/person3.jpg" alt="user">
-											</figure>
-											<blockquote>
-												<span>Adam Smith</span>
-												<p>Far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-											</blockquote>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-
 	
-		@include('others')
+	<div id="colorlib-about">
+		
+			@include('others')
 	</div>
+	
 
 	<div class="gototop js-top">
 		<a href="#" class="js-gotop"><i class="icon-arrow-up2"></i></a>
