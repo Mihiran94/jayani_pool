@@ -15,12 +15,14 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/index','PagesController@index');
+Route::get('/index','PagesController@index')->name('index');
+Route::get('/buy','PagesController@buy')->name('cart');
 Route::get('/projects','PagesController@index1');
 Route::get('/services','PagesController@index2');
 Route::get('/blog','PagesController@index3');
 Route::get('/about','PagesController@index4');
 Route::get('/contact','PagesController@index5');
+Route::get('/store','PagesController@store');
 
 Auth::routes();
 //Route::view('/login','layouts.login');

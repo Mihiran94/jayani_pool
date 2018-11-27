@@ -80,6 +80,7 @@
 									</ul>
 								</li>
 								<li><a href="/services">Services</a></li>
+                                <li><a href="/store">Store</a></li>
 								<li><a href="/blog">Blog</a></li>
 								<li><a href="/about">About</a></li>
 								<li class="active"><a href="/contact">Contact</a></li>

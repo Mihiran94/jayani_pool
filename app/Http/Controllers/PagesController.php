@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Auth;
 
 class PagesController extends Controller
 {
@@ -32,6 +33,18 @@ class PagesController extends Controller
 
     function login(){
         return view('layouts.login');
+    }
+
+    function store(){
+    return view('layouts.store');
+}
+    public function buy(){
+        $user = Auth::user();
+        if(is_null($user)){
+            return redirect()->route('login');
+        }else {
+            return view('layouts.stores.cart');
+        }
     }
 }
 
