@@ -35,10 +35,6 @@ class PagesController extends Controller
         return view('layouts.login');
     }
 
-<<<<<<< HEAD
-    function index6(){
-        return view('layouts.cart');
-=======
     function store(){
     return view('layouts.store');
 }
@@ -49,7 +45,6 @@ class PagesController extends Controller
         }else {
             return view('layouts.stores.cart');
         }
->>>>>>> 23fd09463e9fb2ca7dcfb5dd91133865df2a2487
     }
 }
 
