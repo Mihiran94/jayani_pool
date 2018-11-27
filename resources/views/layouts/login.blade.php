@@ -6,8 +6,9 @@
 <br><br><br>
 {{--<p class="tip">Click on button in image container</p>--}}
 <div class="cont">
+    <form action="/login" method="post">
     <div class="form sign-in">
-        <h2>Welcome back,</h2>
+        <h2>Welcome back to Jayani Pools</h2>
         <label>
             <span>Email</span>
             <input type="email" />
@@ -17,14 +18,15 @@
             <input type="password" />
         </label>
         <p class="forgot-pass">Forgot password?</p>
-        <button type="button" class="submit">Sign In</button>
+        <button type="submit" class="submit">Sign In</button>
         <button type="button" class="fb-btn">Connect with <span>facebook</span></button>
     </div>
+    </form>
     <div class="sub-cont">
         <div class="img">
             <div class="img__text m--up">
                 <h2>New here?</h2>
-                <p>Sign up and discover great amount of new opportunities!</p>
+                <p>Sign up and connect with us to enjoy best features!</p>
             </div>
             <div class="img__text m--in">
                 <h2>One of us?</h2>
@@ -35,6 +37,7 @@
                 <span class="m--in">Sign In</span>
             </div>
         </div>
+        <form action="{{ route('register') }}">
         <div class="form sign-up">
             <h2>Time to feel like home,</h2>
             <label>
@@ -49,9 +52,10 @@
                 <span>Password</span>
                 <input type="password" />
             </label>
-            <button type="button" class="submit">Sign Up</button>
+            <button type="submit" class="submit">Sign Up</button>
             <button type="button" class="fb-btn">Join with <span>facebook</span></button>
         </div>
+        </form>
     </div>
 </div>
 
