@@ -60,20 +60,20 @@
 	<div class="colorlib-loader"></div>
 
 	<div id="page">
-
-		@include('navbar')
+		
+        @include('navbar')
 
 		<aside id="colorlib-hero">
 			<div class="flexslider">
 				<ul class="slides">
-			   	<li style="background-image: url(images/img_bg_4.jpeg);">
+			   	<li style="background-image: url(images/img_bg_3.jpeg);">
 			   		<div class="overlay"></div>
 			   		<div class="container-fluid">
 			   			<div class="row">
 				   			<div class="col-md-8 col-sm-12 col-md-offset-2 slider-text">
 				   				<div class="slider-text-inner text-center">
-				   					<h2>Get in Touch</h2>
-				   					<h1>Contact Us</h1>
+				   					<h2>Few More</h2>
+				   					<h1>What We Do </h1>
 				   				</div>
 				   			</div>
 				   		</div>
@@ -83,72 +83,70 @@
 		  	</div>
 		</aside>
 
-		<div id="colorlib-contact">
+		<div id="colorlib-blog">
 			<div class="container">
 				<div class="row">
-					<div class="col-md-10 col-md-offset-1 animate-box">
-						<h2>Contact Information</h2>
-						<div class="row contact-info-wrap">
-							<div class="col-md-3">
-								<p><span><i class="icon-location-2"></i></span> 198 West 21th Street, <br> Suite 721 New York NY 10016</p>
+					<article class="animate-box">
+						<div class="blog-img" style="background-image: url(images/blog-1.jpeg);"></div>
+						<div class="entry">
+							<div class="meta text-center">
+								<p>
+									<span>August</span>
+									<span>24, 2017</span>
+								</p>
 							</div>
-							<div class="col-md-3">
-								<p><span><i class="icon-phone3"></i></span> <a href="tel://1234567920">+ 1235 2355 98</a></p>
-							</div>
-							<div class="col-md-3">
-								<p><span><i class="icon-paperplane"></i></span> <a href="https://colorlib.com/cdn-cgi/l/email-protection#f29b9c949db28b9d8780819b8697dc919d9f"><span class="__cf_email__" data-cfemail="c8a1a6aea788b1a7bdbabba1bcade6aba7a5">[email&#160;protected]</span></a></p>
-							</div>
-							<div class="col-md-3">
-								<p><span><i class="icon-globe"></i></span> <a href="#">yourwebsite.com</a></p>
-							</div>
+							<h2><a href="#">Construction was awarded with “The Best Construction Company” prize</a></h2>
+							<p class="meta-2"><span><i class="icon-user"></i> Admin</span> <span><i class="icon-dropbox"></i> Articles</span></p>
+							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
 						</div>
-					</div>
-					<div class="col-md-10 col-md-offset-1 animate-box">
-						<h2>Get In Touch</h2>
-						<form action="#">
-							<div class="row form-group">
-								<div class="col-md-6">
-									<label for="fname">First Name</label>
-									<input type="text" id="fname" class="form-control" placeholder="Your firstname">
-								</div>
-								<div class="col-md-6">
-									<label for="lname">Last Name</label>
-									<input type="text" id="lname" class="form-control" placeholder="Your lastname">
-								</div>
+					</article>
+					<article class="animate-box">
+						<div class="blog-img" style="background-image: url(images/blog-2.jpg);"></div>
+						<div class="entry">
+							<div class="meta text-center">
+								<p>
+									<span>August</span>
+									<span>24, 2017</span>
+								</p>
 							</div>
-
-							<div class="row form-group">
-								<div class="col-md-12">
-									<label for="email">Email</label>
-									<input type="text" id="email" class="form-control" placeholder="Your email address">
-								</div>
+							<h2><a href="#">Construction was awarded with “The Best Construction Company” prize</a></h2>
+							<p class="meta-2"><span><i class="icon-user"></i> Admin</span> <span><i class="icon-dropbox"></i> Articles</span></p>
+							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+						</div>
+					</article>
+					<article class="animate-box">
+						<div class="blog-img" style="background-image: url(images/blog-4.jpeg);"></div>
+						<div class="entry">
+							<div class="meta text-center">
+								<p>
+									<span>August</span>
+									<span>24, 2017</span>
+								</p>
 							</div>
-
-							<div class="row form-group">
-								<div class="col-md-12">
-									<label for="subject">Subject</label>
-									<input type="text" id="subject" class="form-control" placeholder="Your subject of this message">
-								</div>
+							<h2><a href="#">New Saint Michael’s College Residence Hall Buzzing with Student Activity</a></h2>
+							<p class="meta-2"><span><i class="icon-user"></i> Admin</span> <span><i class="icon-dropbox"></i> Articles</span></p>
+							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+						</div>
+					</article>
+					<article class="animate-box">
+						<div class="blog-img" style="background-image: url(images/blog-5.jpg);"></div>
+						<div class="entry">
+							<div class="meta text-center">
+								<p>
+									<span>August</span>
+									<span>24, 2017</span>
+								</p>
 							</div>
-
-							<div class="row form-group">
-								<div class="col-md-12">
-									<label for="message">Message</label>
-									<textarea name="message" id="message" cols="30" rows="10" class="form-control" placeholder="Say something about us"></textarea>
-								</div>
-							</div>
-							<div class="form-group">
-								<input type="submit" value="Send Message" class="btn btn-primary">
-							</div>
-
-						</form>		
-					</div>
-				</div>
+							<h2><a href="#">Construction was awarded with “The Best Construction Company” prize</a></h2>
+							<p class="meta-2"><span><i class="icon-user"></i> Admin</span> <span><i class="icon-dropbox"></i> Articles</span></p>
+							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+						</div>
+					</article>
+				</div>	
 			</div>
 		</div>
-	<div id="map" class="colorlib-map"></div>
-
-	@include('others')
+	
+		@include('others')
 
 	</div>
 
@@ -175,10 +173,6 @@
 	<script src="js/magnific-popup-options.js"></script>
 	<!-- Counters -->
 	<script src="js/jquery.countTo.js"></script>
-	<!-- Google Map -->
-	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCefOgb1ZWqYtj7raVSmN4PL2WkTrc-KyA&amp;sensor=false"></script>
-	<script src="js/google_map.js"></script>
-
 	<!-- Main -->
 	<script src="js/main.js"></script>
 <!-- Global site tag (gtag.js) - Google Analytics -->

@@ -60,35 +60,9 @@
 	<div class="colorlib-loader"></div>
 
 	<div id="page">
-		<nav class="colorlib-nav" role="navigation">
-			<div class="top-menu">
-				<div class="container">
-					<div class="row">
-						<div class="col-xs-2">
-							<div id="colorlib-logo"><a href="/index">Jayani Swimming Pools</a></div>
-						</div>
-						<div class="col-xs-10 text-right menu-1">
-							<ul>
-								<li><a href="/index">Home</a></li>
-								<li class="has-dropdown">
-									<a href="work.html">Projects</a>
-									<ul class="dropdown">
-										<li><a href="#">Commercial</a></li>
-										<li><a href="#">Apartment</a></li>
-										<li><a href="#">House</a></li>
-										<li><a href="#">Building</a></li>
-									</ul>
-								</li>
-								<li><a href="/services">Services</a></li>
-								<li><a href="/blog">Blog</a></li>
-								<li class="active"><a href="/about">About</a></li>
-								<li><a href="/contact">Contact</a></li>
-							</ul>
-						</div>
-					</div>
-				</div>
-			</div>
-		</nav>
+
+		@include('navbar')
+
 		<aside id="colorlib-hero">
 			<div class="flexslider">
 				<ul class="slides">
@@ -115,7 +89,13 @@
 					<div class="col-md-6">
 						<div class="about animate-box">
 							<h2>Welcome to our Company</h2>
-							<p>On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word "and" and the Little Blind Text should turn around and return to its own, safe country. But nothing the copy said could convince her and so it didn’t take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged her into their agency, where they abused her for their.</p>
+							<p>Professionals jayani Swimming pools Carry Out The Pool Construction From Commencement To Conclusion With Utmost Care Having Aesthetic And Technical Aspects In Mind. After A Careful Site Evaluation And After Studying The Client-Specific Needs,We Proposes The Most Suitable Design And Size Of The Pool And The Specifications.
+
+The Designing Of Pools, Carrying Out Construction Work, Installation Of Equipment Etc. Are Carried Out In Professional Manner.</br>
+
+Whether You Intend To Build A New Swimming Pool Or Would Like To Upgrade An Existing One,We Promises To Provide Quality Work, Strong Customer Service, And The Full Breadth Of Experience. We Can Help You Design A Project That Is As Complex Or Simple As Your Vision, The Site, And Your Budget Will Warrant.</br>
+
+Our Service Team Is Fast, Efficient, And On Time So You Never Miss An Important Maintenance Task. We Provide Year Round Pool And Spa Care To Make Your Life Easier. We Take Care Of Your Pool, While You Are Doing What You Are Supposed To Do; Enjoying Your Pool.</p>
 						</div>
 					</div>
 					<div class="col-md-6">
@@ -126,14 +106,14 @@
 					<div class="col-md-8 col-md-offset-2 text-center animate-box colorlib-heading animate-box">
 						<span class="sm">Team</span>
 						<h2><span class="thin">Our</span> <span class="thick">Engineers</span></h2>
-						<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name</p>
+						<p>We are Strong As One</p>
 					</div>
 				</div>
 				<div class="row">
 					<div class="col-md-4 text-center animate-box">
 						<div class="staff" class="staff-img" style="background-image: url(images/person1.jpg);">
 							<a href="#" class="desc">
-								<h3>John Miller</h3>
+								<h3>Ravi Prasad</h3>
 								<span>Lead Engineer</span>
 								<div class="parag">
 									<p>Even the all-powerful Pointing has no control about the blind texts</p>
@@ -144,7 +124,7 @@
 					<div class="col-md-4 text-center animate-box">
 						<div class="staff" class="staff-img" style="background-image: url(images/person2.jpg);">
 							<a href="#" class="desc">
-								<h3>Brian Smith</h3>
+								<h3>Mihiran chamara</h3>
 								<span>Architect</span>
 								<div class="parag">
 									<p>Even the all-powerful Pointing has no control about the blind texts</p>
@@ -155,7 +135,7 @@
 					<div class="col-md-4 text-center animate-box">
 						<div class="staff" class="staff-img" style="background-image: url(images/person3.jpg);">
 							<a href="#" class="desc">
-								<h3>Andrew Clinton</h3>
+								<h3>Denuka Srimal</h3>
 								<span>Architect</span>
 								<div class="parag">
 									<p>Even the all-powerful Pointing has no control about the blind texts</p>
@@ -226,7 +206,7 @@
 
 	
 		@include('others')
-		
+
 	</div>
 
 	<div class="gototop js-top">

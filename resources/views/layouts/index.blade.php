@@ -59,35 +59,9 @@
 	<div class="colorlib-loader"></div>
 
 	<div id="page">
-		<nav class="colorlib-nav" role="navigation">
-			<div class="top-menu">
-				<div class="container">
-					<div class="row">
-						<div class="col-xs-2">
-							<div id="colorlib-logo"><a href="/index">Jayani Swimming Pools</a></div>
-						</div>
-						<div class="col-xs-10 text-right menu-1">
-							<ul>
-								<li class="active"><a href="/index">Home</a></li>
-								<li class="has-dropdown">
-									<a href="/project">Projects</a>
-									<ul class="dropdown">
-										<li><a href="#">Commercial</a></li>
-										<li><a href="#">Apartment</a></li>
-										<li><a href="#">House</a></li>
-										<li><a href="#">Building</a></li>
-									</ul>
-								</li>
-								<li><a href="/services">Services</a></li>
-								<li><a href="/blog">Blog</a></li>
-								<li><a href="/about">About</a></li>
-								<li><a href="/contact">Contact</a></li>
-							</ul>
-						</div>
-					</div>
-				</div>
-			</div>
-		</nav>
+
+		@include('navbar')
+
 		<aside id="colorlib-hero">
 			<div class="flexslider">
 				<ul class="slides">
@@ -150,7 +124,7 @@
 						</div>
 					</div>
 					<div class="col-md-4 animate-box">
-						<p>Since 1980 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+						<p>Jayani Swimming Pools Is Handled By Professionals Who Have Over 25 Years Of Experience In Pool Building, In Sri Lanka. The Hands-On Experience We Possess On All Kinds Of Pool Construction And The Experience We Have Gained Working Closely With Architects, Consultants And All Sorts Of Demanding Clients Definitely Give Us The Competitive Edge We Need. In-Ground Pools As Well As Roof-Top Pools Are Handled With Equal Care With One Major Aspect In Mind – That Is Leak-Proof Pools. While Maintaining The High Quality Engineering Aspects At All Levels Of Pool Building,We Ensure Excellent Aesthetic Aspects Of The Pool As Well</p>
 					</div>
 				</div>
 			</div>
@@ -163,7 +137,7 @@
 						<span class="sm">Works</span>
 						<h2><span class="thin">Our Done</span> <span class="thick">Projects</span></h2>
 						<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name</p>
-						<p><a href="project.html">View All Projects <i class="icon-arrow-right3"></i></a></p>
+						<p><a href="/blog">View All Projects <i class="icon-arrow-right3"></i></a></p>
 					</div>
 					<div class="col-md-7 col-md-push-1">
 						<div class="row">
@@ -212,6 +186,67 @@
 				</div>
 			</div>
 		</div>
+
+		<div id="colorlib-project">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-4 animate-box colorlib-heading animate-box">
+						<span class="sm">Accessories</span>
+						<h2><span class="thin">Our Done</span> <span class="thick">Cart</span></h2>
+						<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name</p>
+						<p><a href="/store">Go to Store<i class="icon-arrow-right3"></i></a></p>
+					</div>
+					<div class="col-md-7 col-md-push-1">
+						<div class="row">
+							<div class="col-md-12 animate-box">
+								<div class="owl-carousel owl-carousel2 project-wrap">
+									<div class="item">
+										<a href="images/building-1.jpg" class="project image-popup-link" style="background-image: url(images/building-1.jpg);">
+											<div class="desc-t">
+												<div class="desc-tc">
+													<div class="desc">
+														<h3><span><small>1</small></span> California Mega Mall</h3>
+														<p>Even the all-powerful Pointing has no control</p>
+													</div>
+												</div>
+											</div>
+										</a>
+									</div>
+									<div class="item">
+										<a href="images/building-2.jpg" class="project image-popup-link" style="background-image: url(images/building-2.jpg);">
+											<div class="desc-t">
+												<div class="desc-tc">
+													<div class="desc">
+														<h3><span><small>2</small></span> Commercial Building</h3>
+														<p>Even the all-powerful Pointing has no control</p>
+													</div>
+												</div>
+											</div>
+										</a>
+									</div>
+									<div class="item">
+										<a href="images/building-3.jpg" class="project image-popup-link" style="background-image: url(images/building-3.jpg);">
+											<div class="desc-t">
+												<div class="desc-tc">
+													<div class="desc">
+														<h3><span><small>3</small></span> Miami Private Apartment</h3>
+														<p>Even the all-powerful Pointing has no control</p>
+													</div>
+												</div>
+											</div>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		
+
+
 		<div id="colorlib-counter" class="colorlib-counters" style="background-image: url(images/img_1.jpeg);" data-stellar-background-ratio="0.5">
 			<div class="overlay"></div>
 			<div class="container">
@@ -259,8 +294,8 @@
 											<i class="flaticon-engineer"></i>
 										</span>
 										<div class="desc">
-											<h3>General Constructing</h3>
-											<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies</p>
+										<h3>DESIGN & CONSTRUCTION</h3>
+								<p>Whether you want a unique freeform shape, or a traditional kidney or rectangle design, we have the knowledge, resources, and experience to design and construct any pool you want</p>
 										</div>
 									</div>
 								</div>
@@ -270,8 +305,8 @@
 											<i class="flaticon-engineering"></i>
 										</span>
 										<div class="desc">
-											<h3>Building Modeling</h3>
-											<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies</p>
+										<h3>SWIMMING POOL REPAIR</h3>
+								<p>We offer extensive swimming pool repair services. We set our standards high, our response time is almost immediate, we provide quality workmanship and value every customer.</p>
 											</div>
 									</div>
 								</div>
@@ -281,44 +316,12 @@
 											<i class="flaticon-skyline"></i>
 										</span>
 										<div class="desc">
-											<h3>Design Build</h3>
-											<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies</p>
+										<h3>Supply Swimming pool Accessories.</h3>
+								<p>We supply all the kind of best quality Accessories for your swimming pool </p>
 											</div>
 									</div>
 								</div>
-								<div class="col-md-6 animate-box">
-									<div class="services">
-										<span class="icon">
-											<i class="flaticon-crane"></i>
-										</span>
-										<div class="desc">
-											<h3>Construction Services</h3>
-											<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies</p>
-											</div>
-									</div>
-								</div>
-								<div class="col-md-6 animate-box">
-									<div class="services">
-										<span class="icon">
-											<i class="flaticon-sketch"></i>
-										</span>
-										<div class="desc">
-											<h3>Pre-Construction Design</h3>
-											<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies</p>
-											</div>
-									</div>
-								</div>
-								<div class="col-md-6 animate-box">
-									<div class="services">
-										<span class="icon">
-											<i class="flaticon-conveyor"></i>
-										</span>
-										<div class="desc">
-											<h3>Construction Management</h3>
-											<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies</p>
-											</div>
-									</div>
-								</div>
+								
 							</div>
 						</div>
 					</div>
@@ -326,45 +329,7 @@
 			</div>
 		</div>
 		
-		<div id="colorlib-blog">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-4 animate-box colorlib-heading animate-box">
-						<span class="sm">Recent Blog</span>
-						<h2><span class="thin">Read</span> <span class="thick">Our Blog</span></h2>
-						<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name</p>
-						<p><a href="blog.html">View All Blog Post <i class="icon-arrow-right3"></i></a></p>
-					</div>
-					<div class="col-md-8">
-						<div class="row">
-							<div class="wrap">
-								<div class="blog-entry animate-box">
-									<a href="blog.html" class="blog-img" style="background-image: url(images/blog-1.jpg);"></a>
-									<div class="desc">
-										<span>&mdash; 20 Jan, 2017 </span>
-										<h2><a href="blog.html">Construction was awarded with “The Best Construction Company” prize</a></h2>
-									</div>
-								</div>
-								<div class="blog-entry animate-box">
-									<a href="blog.html" class="blog-img" style="background-image: url(images/blog-2.jpg);"></a>
-									<div class="desc">
-										<span>&mdash; 20 Jan, 2017 </span>
-										<h2><a href="blog.html">New Doublered Residence Facility Occupied and Second to Begin this Month</a></h2>
-									</div>
-								</div>
-								<div class="blog-entry animate-box">
-									<a href="blog.html" class="blog-img" style="background-image: url(images/blog-3.jpg);"></a>
-									<div class="desc">
-										<span>&mdash; 20 Jan, 2017 </span>
-										<h2><a href="blog.html">New Saint Michael’s College Residence Hall Buzzing with Student Activity</a></h2>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>	
-			</div>
-		</div>
+		
 		<div id="colorlib-about">
 			<div class="container">
 				<div class="row">

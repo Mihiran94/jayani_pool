@@ -60,35 +60,9 @@
 	<div class="colorlib-loader"></div>
 
 	<div id="page">
-		<nav class="colorlib-nav" role="navigation">
-			<div class="top-menu">
-				<div class="container">
-					<div class="row">
-						<div class="col-xs-2">
-							<div id="colorlib-logo"><a href="index-2.html">Jayani Swimming Pools</a></div>
-						</div>
-						<div class="col-xs-10 text-right menu-1">
-							<ul>
-								<li><a href="/index">Home</a></li>
-								<li class="has-dropdown">
-									<a href="work.html">Projects</a>
-									<ul class="dropdown">
-										<li><a href="#">Commercial</a></li>
-										<li><a href="#">Apartment</a></li>
-										<li><a href="#">House</a></li>
-										<li><a href="#">Building</a></li>
-									</ul>
-								</li>
-								<li><a href="/services">Services</a></li>
-								<li class="active"><a href="/blog">Blog</a></li>
-								<li><a href="/about">About</a></li>
-								<li><a href="/contact">Contact</a></li>
-							</ul>
-						</div>
-					</div>
-				</div>
-			</div>
-		</nav>
+
+		@include('navbar')
+
 		<aside id="colorlib-hero">
 			<div class="flexslider">
 				<ul class="slides">
@@ -98,8 +72,8 @@
 			   			<div class="row">
 				   			<div class="col-md-8 col-sm-12 col-md-offset-2 slider-text">
 				   				<div class="slider-text-inner text-center">
-				   					<h2>Read Events</h2>
-				   					<h1>Our Blog</h1>
+				   					<h2>Few More</h2>
+				   					<h1>What We Do </h1>
 				   				</div>
 				   			</div>
 				   		</div>
@@ -109,71 +83,10 @@
 		  	</div>
 		</aside>
 
-		<div id="colorlib-blog">
-			<div class="container">
-				<div class="row">
-					<article class="animate-box">
-						<div class="blog-img" style="background-image: url(images/blog-1.jpeg);"></div>
-						<div class="entry">
-							<div class="meta text-center">
-								<p>
-									<span>August</span>
-									<span>24, 2017</span>
-								</p>
-							</div>
-							<h2><a href="#">Construction was awarded with “The Best Construction Company” prize</a></h2>
-							<p class="meta-2"><span><i class="icon-user"></i> Admin</span> <span><i class="icon-dropbox"></i> Articles</span></p>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-						</div>
-					</article>
-					<article class="animate-box">
-						<div class="blog-img" style="background-image: url(images/blog-2.jpg);"></div>
-						<div class="entry">
-							<div class="meta text-center">
-								<p>
-									<span>August</span>
-									<span>24, 2017</span>
-								</p>
-							</div>
-							<h2><a href="#">Construction was awarded with “The Best Construction Company” prize</a></h2>
-							<p class="meta-2"><span><i class="icon-user"></i> Admin</span> <span><i class="icon-dropbox"></i> Articles</span></p>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-						</div>
-					</article>
-					<article class="animate-box">
-						<div class="blog-img" style="background-image: url(images/blog-4.jpeg);"></div>
-						<div class="entry">
-							<div class="meta text-center">
-								<p>
-									<span>August</span>
-									<span>24, 2017</span>
-								</p>
-							</div>
-							<h2><a href="#">New Saint Michael’s College Residence Hall Buzzing with Student Activity</a></h2>
-							<p class="meta-2"><span><i class="icon-user"></i> Admin</span> <span><i class="icon-dropbox"></i> Articles</span></p>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-						</div>
-					</article>
-					<article class="animate-box">
-						<div class="blog-img" style="background-image: url(images/blog-5.jpg);"></div>
-						<div class="entry">
-							<div class="meta text-center">
-								<p>
-									<span>August</span>
-									<span>24, 2017</span>
-								</p>
-							</div>
-							<h2><a href="#">Construction was awarded with “The Best Construction Company” prize</a></h2>
-							<p class="meta-2"><span><i class="icon-user"></i> Admin</span> <span><i class="icon-dropbox"></i> Articles</span></p>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-						</div>
-					</article>
-				</div>	
-			</div>
-		</div>
+		@include('gallery')
 	
 		@include('others')
-		
+
 	</div>
 
 	<div class="gototop js-top">

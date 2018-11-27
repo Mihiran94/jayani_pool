@@ -33,5 +33,9 @@ class PagesController extends Controller
     function login(){
         return view('layouts.login');
     }
+
+    function index6(){
+        return view('layouts.cart');
+    }
 }
 

@@ -21,6 +21,7 @@ Route::get('/services','PagesController@index2');
 Route::get('/blog','PagesController@index3');
 Route::get('/about','PagesController@index4');
 Route::get('/contact','PagesController@index5');
+Route::get('/store','PagesController@index6');
 
 Auth::routes();
 Route::get('/login','PagesController@login');
