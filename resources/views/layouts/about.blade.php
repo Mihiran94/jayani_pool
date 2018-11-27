@@ -83,7 +83,8 @@
 								<li><a href="/blog">Blog</a></li>
 								<li class="active"><a href="/about">About</a></li>
 								<li><a href="/contact">Contact</a></li>
-							</ul>
+                                <li><a href="/login">Sign Up/Sign In</a></li>
+                            </ul>
 						</div>
 					</div>
 				</div>
