@@ -120,7 +120,7 @@
 						</div>
 					</div>
 					<div class="col-md-6">
-						<img class="img-responsive" src="images/img_bg_4.jpg" alt="Free HTML5 Bootstrap Template by colorlib.com">
+						<img class="img-responsive" src="images/img_bg_4.jpeg" alt="Free HTML5 Bootstrap Template by colorlib.com">
 					</div>
 				</div>
 				<div class="row">
