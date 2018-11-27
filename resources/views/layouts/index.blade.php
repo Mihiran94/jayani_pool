@@ -173,7 +173,7 @@
 							<div class="col-md-12 animate-box">
 								<div class="owl-carousel owl-carousel2 project-wrap">
 									<div class="item">
-										<a href="images/building-1.jpg" class="project image-popup-link" style="background-image: url(images/building-1.jpg);">
+										<a href="images/building-1.jpg" class="project image-popup-link" style="background-image: url(images/img4.jpg);">
 											<div class="desc-t">
 												<div class="desc-tc">
 													<div class="desc">
@@ -185,7 +185,7 @@
 										</a>
 									</div>
 									<div class="item">
-										<a href="images/building-2.jpg" class="project image-popup-link" style="background-image: url(images/building-2.jpg);">
+										<a href="images/building-2.jpg" class="project image-popup-link" style="background-image: url(images/img10.jpg);">
 											<div class="desc-t">
 												<div class="desc-tc">
 													<div class="desc">
@@ -197,7 +197,7 @@
 										</a>
 									</div>
 									<div class="item">
-										<a href="images/building-3.jpg" class="project image-popup-link" style="background-image: url(images/building-3.jpg);">
+										<a href="images/building-3.jpg" class="project image-popup-link" style="background-image: url(images/img13.jpg);">
 											<div class="desc-t">
 												<div class="desc-tc">
 													<div class="desc">
@@ -342,21 +342,21 @@
 						<div class="row">
 							<div class="wrap">
 								<div class="blog-entry animate-box">
-									<a href="blog.html" class="blog-img" style="background-image: url(images/blog-1.jpg);"></a>
+									<a href="blog.html" class="blog-img" style="background-image: url(images/img7.jpeg);"></a>
 									<div class="desc">
 										<span>&mdash; 20 Jan, 2017 </span>
 										<h2><a href="blog.html">Construction was awarded with “The Best Construction Company” prize</a></h2>
 									</div>
 								</div>
 								<div class="blog-entry animate-box">
-									<a href="blog.html" class="blog-img" style="background-image: url(images/blog-2.jpg);"></a>
+									<a href="blog.html" class="blog-img" style="background-image: url(images/img9.jpeg);"></a>
 									<div class="desc">
 										<span>&mdash; 20 Jan, 2017 </span>
 										<h2><a href="blog.html">New Doublered Residence Facility Occupied and Second to Begin this Month</a></h2>
 									</div>
 								</div>
 								<div class="blog-entry animate-box">
-									<a href="blog.html" class="blog-img" style="background-image: url(images/blog-3.jpg);"></a>
+									<a href="blog.html" class="blog-img" style="background-image: url(images/img12.jpg);"></a>
 									<div class="desc">
 										<span>&mdash; 20 Jan, 2017 </span>
 										<h2><a href="blog.html">New Saint Michael’s College Residence Hall Buzzing with Student Activity</a></h2>
