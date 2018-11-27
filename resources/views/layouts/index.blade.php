@@ -124,7 +124,7 @@
 			   			<div class="row">
 				   			<div class="col-md-8 col-sm-12 col-md-offset-2 slider-text">
 				   				<div class="slider-text-inner text-center">
-                                    
+
 				   					<h2>We Design All Kinds of Swimming Pools</h2>
 
 				   					<h1>We Build Pools Professionally</h1>

@@ -15,7 +15,7 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/','PagesController@index');
+Route::get('/index','PagesController@index');
 Route::get('/projects','PagesController@index1');
 Route::get('/services','PagesController@index2');
 Route::get('/blog','PagesController@index3');
