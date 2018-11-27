@@ -21,3 +21,6 @@ Route::get('/services','PagesController@index2');
 Route::get('/blog','PagesController@index3');
 Route::get('/about','PagesController@index4');
 Route::get('/contact','PagesController@index5');
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
