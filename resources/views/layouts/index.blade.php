@@ -91,40 +91,40 @@
 		<aside id="colorlib-hero">
 			<div class="flexslider">
 				<ul class="slides">
-			   	<li style="background-image: url(images/img_bg_1.jpg);">
+			   	<li style="background-image: url(images/img_bg_1.jpeg);">
 			   		<div class="overlay"></div>
 			   		<div class="container-fluid">
 			   			<div class="row">
 				   			<div class="col-md-8 col-sm-12 col-md-offset-2 slider-text">
 				   				<div class="slider-text-inner text-center">
-				   					<h2>Providing all Kinds of Construction Services</h2>
-				   					<h1>Constructing Spaces For You</h1>
+				   					<h2>Let your dream pool</h2>
+				   					<h1>Design Begin Right Now</h1>
 				   				</div>
 				   			</div>
 				   		</div>
 			   		</div>
 			   	</li>
-			   	<li style="background-image: url(images/img_bg_2.jpg);">
+			   	<li style="background-image: url(images/img_bg_2.jpeg);">
 			   		<div class="overlay"></div>
 			   		<div class="container-fluid">
 			   			<div class="row">
 				   			<div class="col-md-8 col-sm-12 col-md-offset-2 slider-text">
 				   				<div class="slider-text-inner text-center">
-				   					<h2>Building Your Solid</h2>
-				   					<h1>High Class Building</h1>
+				   					<h2>Building Your dream</h2>
+				   					<h1>High Class </h1>
 				   				</div>
 				   			</div>
 				   		</div>
 			   		</div>
 			   	</li>
-			   	<li style="background-image: url(images/img_bg_3.jpg);">
+			   	<li style="background-image: url(images/img_bg_3.jpeg);">
 			   		<div class="overlay"></div>
 			   		<div class="container-fluids">
 			   			<div class="row">
 				   			<div class="col-md-8 col-sm-12 col-md-offset-2 slider-text">
 				   				<div class="slider-text-inner text-center">
-				   					<h2>We Design All Kinds of Buildings</h2>
-				   					<h1>We Build Buildings Professionally</h1>
+				   					<h2>We Design All Kinds of Pools</h2>
+				   					<h1>We Build Pools Professionally</h1>
 				   				</div>
 				   			</div>
 				   		</div>
@@ -212,7 +212,7 @@
 				</div>
 			</div>
 		</div>
-		<div id="colorlib-counter" class="colorlib-counters" style="background-image: url(images/cover_img_1.jpg);" data-stellar-background-ratio="0.5">
+		<div id="colorlib-counter" class="colorlib-counters" style="background-image: url(images/img_1.jpeg);" data-stellar-background-ratio="0.5">
 			<div class="overlay"></div>
 			<div class="container">
 				<div class="row">
@@ -462,101 +462,7 @@
 		</div>
 
 	
-		<div id="colorlib-subscribe">
-			<div class="overlay"></div>
-			<div class="container">
-				<div class="row">
-					<div class="col-md-12 col-md-offset-0 colorlib-heading animate-box">
-						<h2>Sign up for a Newsletter</h2>
-						<div class="row">
-							<div class="col-md-7">
-								<p>Enter your email address to get the latest news, events and special offers delivered right to your inbox.</p>
-							</div>
-							<div class="col-md-5">
-								<form class="form-inline qbstp-header-subscribe">
-									<div class="row">
-										<div class="col-md-12 col-md-offset-0">
-											<div class="form-group">
-												<input type="text" class="form-control" id="email" placeholder="Enter your email">
-												<button type="submit" class="btn btn-primary">Subscribe</button>
-											</div>
-										</div>
-									</div>
-								</form>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		<footer id="colorlib-footer" role="contentinfo">
-			<div class="container">
-				<div class="row row-pb-md">
-					<div class="col-md-3 colorlib-widget">
-						<h4>About Company</h4>
-						<p>Far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
-						<p>
-							<ul class="colorlib-social-icons">
-								<li><a href="#"><i class="icon-twitter"></i></a></li>
-								<li><a href="#"><i class="icon-facebook"></i></a></li>
-								<li><a href="#"><i class="icon-linkedin"></i></a></li>
-								<li><a href="#"><i class="icon-dribbble"></i></a></li>
-							</ul>
-						</p>
-					</div>
-					<div class="col-md-3 col-md-push-1">
-						<h4>Recent Blog</h4>
-						<ul class="colorlib-footer-links">
-							<li>
-								<span>&mdash; 20 Jan, 2017</span>
-								<a href="#">Results of Annual General Meeting</a>
-							</li>
-							<li>
-								<span>&mdash; 19 Jan, 2017</span>
-								<a href="#">Construction was awarded with “The Best Construction Company” prize</a>
-							</li>
-							<li>
-								<span>&mdash; 18 Jan, 2017</span>
-								<a href="#">New Saint Michael’s College Residence Hall Buzzing with Student Activity</a>
-							</li>
-						</ul>
-					</div>
-					<div class="col-md-3 col-md-push-1 colorlib-widget">
-						<h4>Information</h4>
-						<p>
-							<ul class="colorlib-footer-links">
-								<li><a href="#"><i class="icon-check"></i> Our Company</a></li>
-								<li><a href="#"><i class="icon-check"></i> Certification</a></li>
-								<li><a href="#"><i class="icon-check"></i> Our services</a></li>
-								<li><a href="#"><i class="icon-check"></i> Career</a></li>
-								<li><a href="#"><i class="icon-check"></i> Core Values</a></li>
-								<li><a href="#"><i class="icon-check"></i> Company History</a></li>
-								<li><a href="#"><i class="icon-check"></i> FAQ</a></li>
-							</ul>
-						</p>
-					</div>
-
-					<div class="col-md-3 col-md-push-1">
-						<h4>Contact Info</h4>
-						<ul class="colorlib-footer-links">
-							<li>291 South 21th Street, <br> Suite 721 New York NY 10016</li>
-							<li><a href="tel://1234567920"><i class="icon-phone"></i> + 1235 2355 98</a></li>
-							<li><a href="https://colorlib.com/cdn-cgi/l/email-protection#deb7b0b8b19ea7b1abacadb7aabbf0bdb1b3"><i class="icon-envelope"></i> <span class="__cf_email__" data-cfemail="d7beb9b1b897aeb8a2a5a4bea3b2f9b4b8ba">[email&#160;protected]</span></a></li>
-							<li><a href="http://luxehotel.com/"><i class="icon-location4"></i> yourwebsite.com</a></li>
-						</ul>
-					</div>
-				</div>
-				<div class="row">
-					<div class="col-md-12 text-center">
-						<p>
-							<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-     					<small class="block">Copyright &copy; <script data-cfasync="false" src="../../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>document.write(new Date().getFullYear());</script> All rights reserved.  <br>This template is made with <i class="icon-heart3" aria-hidden="true"></i> by <a href="https://colorlib.com/" target="_blank">Colorlib</a></small>
-    					<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-						</p>
-					</div>
-				</div>
-			</div>
-		</footer>
+		@include('others')
 	</div>
 
 	<div class="gototop js-top">

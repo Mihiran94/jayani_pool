@@ -29,4 +29,9 @@ class PagesController extends Controller
     function index5(){
         return view('layouts.contact');
     }
+
+    function login(){
+        return view('layouts.login');
+    }
 }
+
