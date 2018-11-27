@@ -15,13 +15,22 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+<<<<<<< HEAD
 Route::get('/index','PagesController@index');
+=======
+Route::get('/index','PagesController@index')->name('index');
+Route::get('/buy','PagesController@buy')->name('cart');
+>>>>>>> 23fd09463e9fb2ca7dcfb5dd91133865df2a2487
 Route::get('/projects','PagesController@index1');
 Route::get('/services','PagesController@index2');
 Route::get('/blog','PagesController@index3');
 Route::get('/about','PagesController@index4');
 Route::get('/contact','PagesController@index5');
+<<<<<<< HEAD
 Route::get('/store','PagesController@index6');
+=======
+Route::get('/store','PagesController@store');
+>>>>>>> 23fd09463e9fb2ca7dcfb5dd91133865df2a2487
 
 Auth::routes();
 //Route::view('/login','layouts.login');
