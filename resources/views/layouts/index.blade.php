@@ -212,7 +212,7 @@
 				</div>
 			</div>
 		</div>
-		<div id="colorlib-counter" class="colorlib-counters" style="background-image: url(images/cover_img_1.jpg);" data-stellar-background-ratio="0.5">
+		<div id="colorlib-counter" class="colorlib-counters" style="background-image: url(images/img_1.jpeg);" data-stellar-background-ratio="0.5">
 			<div class="overlay"></div>
 			<div class="container">
 				<div class="row">

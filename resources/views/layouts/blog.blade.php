@@ -113,7 +113,7 @@
 			<div class="container">
 				<div class="row">
 					<article class="animate-box">
-						<div class="blog-img" style="background-image: url(images/blog-1.jpg);"></div>
+						<div class="blog-img" style="background-image: url(images/blog-1.jpeg);"></div>
 						<div class="entry">
 							<div class="meta text-center">
 								<p>
@@ -141,7 +141,7 @@
 						</div>
 					</article>
 					<article class="animate-box">
-						<div class="blog-img" style="background-image: url(images/blog-4.jpg);"></div>
+						<div class="blog-img" style="background-image: url(images/blog-4.jpeg);"></div>
 						<div class="entry">
 							<div class="meta text-center">
 								<p>
