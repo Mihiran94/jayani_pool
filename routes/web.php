@@ -24,7 +24,18 @@ Route::get('/contact','PagesController@index5');
 Route::get('/store','PagesController@index6');
 
 Auth::routes();
-Route::get('/login','PagesController@login');
+//Route::view('/login','layouts.login');
 
 Route::get('/home', 'HomeController@index')->name('home');
+
+Route::group(['prefix'=>'admin','middleware'=>'auth'], function(){
+    Route::get('/', function(){
+        return view('admin.index');
+    })->name('admin.index');
+
+    Route::resource('pools', 'PoolDesignController');
+    Route::resource('category', 'CategoriesController');
+});
+
+
 
