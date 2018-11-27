@@ -27,3 +27,14 @@ Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
 
+Route::group(['prefix'=>'admin','middleware'=>'auth'], function(){
+    Route::get('/', function(){
+        return view('admin.index');
+    })->name('admin.index');
+
+    Route::resource('pools', 'PoolDesignController');
+    Route::resource('category', 'CategoriesController');
+});
+
+
+
