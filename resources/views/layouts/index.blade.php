@@ -59,11 +59,6 @@
 	<div class="colorlib-loader"></div>
 
 	<div id="page">
-<<<<<<< HEAD
-
-		@include('navbar')
-
-=======
 		<nav class="colorlib-nav" role="navigation">
 			<div class="top-menu">
 				<div class="container">
@@ -95,7 +90,6 @@
 				</div>
 			</div>
 		</nav>
->>>>>>> 23fd09463e9fb2ca7dcfb5dd91133865df2a2487
 		<aside id="colorlib-hero">
 			<div class="flexslider">
 				<ul class="slides">
@@ -173,11 +167,7 @@
 						<span class="sm">Works</span>
 						<h2><span class="thin">Our Done</span> <span class="thick">Projects</span></h2>
 						<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name</p>
-<<<<<<< HEAD
-						<p><a href="/blog">View All Projects <i class="icon-arrow-right3"></i></a></p>
-=======
 						<p><a href="/project">View All Projects <i class="icon-arrow-right3"></i></a></p>
->>>>>>> 23fd09463e9fb2ca7dcfb5dd91133865df2a2487
 					</div>
 					<div class="col-md-7 col-md-push-1">
 						<div class="row">
@@ -370,96 +360,6 @@
 			</div>
 		</div>
 		
-<<<<<<< HEAD
-		
-		<div id="colorlib-about">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-4 col-md-push-8 animate-box colorlib-heading animate-box">
-						<span class="sm">Team</span>
-						<h2><span class="thin">Our</span> <span class="thick">Engineers</span></h2>
-						<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name</p>
-					</div>
-					<div class="col-md-8 col-md-pull-4">
-						<div class="row">
-							<div class="wrap-2">
-								<div class="col-md-6 text-center animate-box">
-									<div class="staff" class="staff-img" style="background-image: url(images/person1.jpg);">
-										<a href="#" class="desc">
-											<h3>John Miller</h3>
-											<span>Lead Engineer</span>
-											<div class="parag">
-												<p>Even the all-powerful Pointing has no control about the blind texts</p>
-											</div>
-										</a>
-									</div>
-								</div>
-								<div class="col-md-6 text-center animate-box">
-									<div class="staff" class="staff-img" style="background-image: url(images/person2.jpg);">
-										<a href="#" class="desc">
-											<h3>Brian Smith</h3>
-											<span>Architect</span>
-											<div class="parag">
-												<p>Even the all-powerful Pointing has no control about the blind texts</p>
-											</div>
-										</a>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div id="colorlib-testimony" class="colorlib-light-grey">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-4 animate-box colorlib-heading animate-box">
-						<span class="sm">Testimonial</span>
-						<h2><span class="thin">What Our</span> <span class="thick">Client Says</span></h2>
-					</div>
-					<div class="col-md-7 col-md-push-1">
-						<div class="row animate-box">
-							<span class="icon"><i class="icon-quotes-left"></i></span>
-							<div class="owl-carousel1">
-								<div class="item">
-									<div class="testimony-slide active">
-										<div class="testimony-wrap">
-											<figure>
-												<img src="images/person1.jpg" alt="user">
-											</figure>
-											<blockquote>
-												<span>Andrew Field</span>
-												<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-											</blockquote>
-										</div>
-									</div>
-								</div>
-								<div class="item">
-									<div class="testimony-slide active">
-										<div class="testimony-wrap">
-											<figure>
-												<img src="images/person2.jpg" alt="user">
-											</figure>
-											<blockquote>
-												<span>Mark Bubble</span>
-												<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-											</blockquote>
-										</div>
-									</div>
-								</div>
-								<div class="item">
-									<div class="testimony-slide active">
-										<div class="testimony-wrap">
-											<figure>
-												<img src="images/person3.jpg" alt="user">
-											</figure>
-											<blockquote>
-												<span>Adam Smith</span>
-												<p>Far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-											</blockquote>
-										</div>
-=======
 		<div id="colorlib-blog">
 			<div class="container">
 				<div class="row">
@@ -491,22 +391,14 @@
 									<div class="desc">
 										<span>&mdash; 20 Jan, 2017 </span>
 										<h2><a href="/blog">A swimming pool is a water retaining structure used for purposes such as leisure and exercise.</a></h2>
->>>>>>> 23fd09463e9fb2ca7dcfb5dd91133865df2a2487
 									</div>
 								</div>
 							</div>
 						</div>
 					</div>
-<<<<<<< HEAD
-				</div>
-			</div>
-		</div>
-
-=======
 				</div>	
 			</div>
 		</div>
->>>>>>> 23fd09463e9fb2ca7dcfb5dd91133865df2a2487
 	
 	<div id="colorlib-about">
 		
