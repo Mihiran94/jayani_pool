@@ -61,11 +61,6 @@
 	<div class="colorlib-loader"></div>
 
 	<div id="page">
-<<<<<<< HEAD
-
-		@include('navbar')
-
-=======
 		<nav class="colorlib-nav" role="navigation">
 			<div class="top-menu">
 				<div class="container">
@@ -97,7 +92,6 @@
 				</div>
 			</div>
 		</nav>
->>>>>>> 23fd09463e9fb2ca7dcfb5dd91133865df2a2487
 		<aside id="colorlib-hero">
 			<div class="flexslider">
 				<ul class="slides">

@@ -11,7 +11,7 @@
 									<span>10, 2017</span>
 								</p>
 							</div>
-							<h2><a href="#">Award winning swimming pool construction company in the Sri Lanka</a></h2>
+							<h2><a href="#">Award winning swimming pool construction company in Sri Lanka</a></h2>
 							
 						</div>
 					</article>
