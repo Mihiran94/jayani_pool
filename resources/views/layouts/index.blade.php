@@ -59,43 +59,9 @@
 	<div class="colorlib-loader"></div>
 
 	<div id="page">
-<<<<<<< HEAD
 
 		@include('navbar')
 
-=======
-		<nav class="colorlib-nav" role="navigation">
-			<div class="top-menu">
-				<div class="container">
-					<div class="row">
-						<div class="col-xs-2">
-							<div id="colorlib-logo"><a href="/index">Jayani Swimming Pools</a></div>
-						</div>
-						<div class="col-xs-10 text-right menu-1">
-							<ul>
-								<li class="active"><a href="/index">Home</a></li>
-								<li class="has-dropdown">
-									<a href="/project">Projects</a>
-									<ul class="dropdown">
-										<li><a href="#">Commercial</a></li>
-										<li><a href="#">Apartment</a></li>
-										<li><a href="#">House</a></li>
-										<li><a href="#">Building</a></li>
-									</ul>
-								</li>
-								<li><a href="/services">Services</a></li>
-                               <li><a href="/store">Store</a></li>
-								{{--<li><a href="/blog">Blog</a></li>--}}
-								<li><a href="/about">About</a></li>
-								<li><a href="/contact">Contact</a></li>
-                               <li><a href="/login">Sign Up/Sign In</a></li>
-							</ul>
-						</div>
-					</div>
-				</div>
-			</div>
-		</nav>
->>>>>>> 23fd09463e9fb2ca7dcfb5dd91133865df2a2487
 		<aside id="colorlib-hero">
 			<div class="flexslider">
 				<ul class="slides">
@@ -173,11 +139,7 @@
 						<span class="sm">Works</span>
 						<h2><span class="thin">Our Done</span> <span class="thick">Projects</span></h2>
 						<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name</p>
-<<<<<<< HEAD
-						<p><a href="/blog">View All Projects <i class="icon-arrow-right3"></i></a></p>
-=======
 						<p><a href="/project">View All Projects <i class="icon-arrow-right3"></i></a></p>
->>>>>>> 23fd09463e9fb2ca7dcfb5dd91133865df2a2487
 					</div>
 					<div class="col-md-7 col-md-push-1">
 						<div class="row">
@@ -370,7 +332,6 @@
 			</div>
 		</div>
 		
-<<<<<<< HEAD
 		
 		<div id="colorlib-about">
 			<div class="container">
@@ -459,54 +420,15 @@
 												<p>Far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
 											</blockquote>
 										</div>
-=======
-		<div id="colorlib-blog">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-4 animate-box colorlib-heading animate-box">
-						<span class="sm">Recent Blog</span>
-						<h2><span class="thin">Read</span> <span class="thick">Our Blog</span></h2>
-						<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name</p>
-						<p><a href= "/blog">View All Blog Post <i class="icon-arrow-right3"></i></a></p>
-					</div>
-					<div class="col-md-8">
-						<div class="row">
-							<div class="wrap">
-								<div class="blog-entry animate-box">
-									<a href="blog.html" class="blog-img" style="background-image: url(images/img7.jpeg);"></a>
-									<div class="desc">
-										<span>&mdash; 20 Jan, 2017 </span>
-										<h2><a href="/blog">Award winning swimming pool construction company in the Sri Lanka</a></h2>
-									</div>
-								</div>
-								<div class="blog-entry animate-box">
-									<a href="blog.html" class="blog-img" style="background-image: url(images/img9.jpeg);"></a>
-									<div class="desc">
-										<span>&mdash; 20 Jan, 2017 </span>
-										<h2><a href="/blog">Ten Mistakes People Make When Hiring a Contractor To Build a Swimming Pool</a></h2>
-									</div>
-								</div>
-								<div class="blog-entry animate-box">
-									<a href="blog.html" class="blog-img" style="background-image: url(images/img12.jpg);"></a>
-									<div class="desc">
-										<span>&mdash; 20 Jan, 2017 </span>
-										<h2><a href="/blog">A swimming pool is a water retaining structure used for purposes such as leisure and exercise.</a></h2>
->>>>>>> 23fd09463e9fb2ca7dcfb5dd91133865df2a2487
 									</div>
 								</div>
 							</div>
 						</div>
 					</div>
-<<<<<<< HEAD
 				</div>
 			</div>
 		</div>
 
-=======
-				</div>	
-			</div>
-		</div>
->>>>>>> 23fd09463e9fb2ca7dcfb5dd91133865df2a2487
 	
 	<div id="colorlib-about">
 		

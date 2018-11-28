@@ -31,11 +31,7 @@
 					</article>
 
 					<article class="animate-box">
-<<<<<<< HEAD
-						<div class="blog-img" style="background-image: url(images/blog-4.jpeg);"></div>
-=======
 						<div class="blog-img" style="background-image: url(images/img4.jpg);"></div>
->>>>>>> 23fd09463e9fb2ca7dcfb5dd91133865df2a2487
 						<div class="entry">
 							<div class="meta text-center">
 								<p>
